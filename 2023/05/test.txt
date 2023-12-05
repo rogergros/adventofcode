@@ -1,0 +1,5 @@
+seeds: 40 20
+
+seed-to-soil map:
+20 50 2
+10 0 50
